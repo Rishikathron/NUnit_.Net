@@ -1,0 +1,15 @@
+E:\GIT\Percentage_Calculator\Percentage_Calculator\bin\Debug\net6.0\Percentage_Calculator.exe
+E:\GIT\Percentage_Calculator\Percentage_Calculator\bin\Debug\net6.0\Percentage_Calculator.deps.json
+E:\GIT\Percentage_Calculator\Percentage_Calculator\bin\Debug\net6.0\Percentage_Calculator.runtimeconfig.json
+E:\GIT\Percentage_Calculator\Percentage_Calculator\bin\Debug\net6.0\Percentage_Calculator.dll
+E:\GIT\Percentage_Calculator\Percentage_Calculator\bin\Debug\net6.0\Percentage_Calculator.pdb
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.csproj.AssemblyReference.cache
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.AssemblyInfoInputs.cache
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.AssemblyInfo.cs
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.csproj.CoreCompileInputs.cache
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.dll
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\refint\Percentage_Calculator.dll
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.pdb
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\Percentage_Calculator.genruntimeconfig.cache
+E:\GIT\Percentage_Calculator\Percentage_Calculator\obj\Debug\net6.0\ref\Percentage_Calculator.dll
